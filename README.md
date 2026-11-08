@@ -152,3 +152,4 @@ Interactive API documentation available at [http://localhost:8001/docs](http://l
 ## 👩‍🏫 Faculty In-Charge
 **Jane Rose | Department of Computer Science & Engineering**  
 *APJ Abdul Kalam Technological University (KTU)*
+
